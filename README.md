@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m complete BCA (Bachelor of Computer Applications) from vnsgu <br>🌱 I’m currently learning Web front and development<br>👯 I’m looking to collaborate on for new project in front and development<br>🤝 I’m looking for help with I’m looking for help with for front and development in finder a job<br>👨‍💻 All of my projects are available at "https://github.com/Bhargav2325"<br>📫 How to reach me "www.linkedin.com/in/bhargav-italiya-860a6625a"<br>⚡ Fun fact - I am Devloper 😅
+🔭 I’m complete BCA (Bachelor of Computer Applications) from vnsgu <br>🌱 I’m currently learning Web front and development<br>👯 I’m looking to collaborate on for new project in front and development<br>🤝  I’m looking for help with for front and development in finder a job<br>👨‍💻 All of my projects are available at "https://github.com/Bhargav2325"<br>📫 How to reach me "www.linkedin.com/in/bhargav-italiya-860a6625a"<br>⚡ Fun fact - I am Devloper 😅
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/italiya_bhargav_23/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-italiya-860a6625a/) 
